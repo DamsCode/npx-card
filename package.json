@@ -1,0 +1,23 @@
+{
+  "name": "npx-card",
+  "version": "1.0.0",
+  "description": "my card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamsCode/npx-card.git"
+  },
+  "author": "damscode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DamsCode/npx-card/issues"
+  },
+  "homepage": "https://github.com/DamsCode/npx-card#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "figlet": "^1.2.4"
+  }
+}
